@@ -12,8 +12,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/Quit4859" alt="Contribution Calendar" width="100%"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Quit4859&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
